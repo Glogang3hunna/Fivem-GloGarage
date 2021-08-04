@@ -1,3 +1,30 @@
+
+Requirements:
+Required:
+ESX Legacy Links - Use one of the following
+es_extended V1 Final
+es_extended Legacy
+ESX Legacy
+ExtendedMode
+esx_property
+esx_advancedvehicleshop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Fivem-GloGarage
 This is a esx garage system that works on a framework of ASD so all the ASD nil (core) needs to be rechanged to ESX nil (getsharedobject) or you will have to make your core files all ASD. 
 
