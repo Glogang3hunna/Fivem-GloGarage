@@ -1,8 +1,6 @@
 
 
-Requirements:
-
-
+## Requirements:
 
 
 
@@ -1548,6 +1546,8 @@ function CreateBlip(coords, text, sprite, color, scale)
 	table.insert(JobBlips, blip)
 end
 
+## Join My Discord
+https://discord.gg/5PRc8KB3f4
 
 
 
