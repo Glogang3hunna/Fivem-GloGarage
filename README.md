@@ -1,13 +1,26 @@
 
+
 Requirements:
-Required:
-ESX Legacy Links - Use one of the following
-es_extended V1 Final
-es_extended Legacy
-ESX Legacy
-ExtendedMode
-esx_property
-esx_advancedvehicleshop
+
+
+
+
+
+
+
+
+
+es_extended V1 Final-https://github.com/esx-framework/es_extended/tree/v1-final
+
+
+
+ExtendedMode-https://github.com/extendedmode/extendedmode
+
+
+esx_property-https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_property
+
+
+esx_advancedvehicleshop-https://github.com/HumanTree92/esx_advancedvehicleshop
 
 
 
