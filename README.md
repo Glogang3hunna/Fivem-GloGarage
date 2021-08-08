@@ -1,4 +1,16 @@
 
+## PLEASE READ
+The locale lua file thats outside the folder needs to be seperated from this folder make a new folder called example (Test)
+Make a resource lua/fxmanifest then add that locale lua in that new folder and put ensure Test in server cfg and go back to resource lua in glogarage and add that folder directory into the glo resource lua.
+
+
+
+
+
+
+
+
+
 
 ## Requirements:
 
